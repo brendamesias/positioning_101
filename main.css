@@ -1,0 +1,24 @@
+
+body{
+  margin: 20px;
+  padding: 10px;
+  width: 100%;
+}
+h1{
+  font-family: monospace;
+}
+a{
+  margin: 7px;
+  padding: 5px;
+  width: 100px;
+  height: 40px;
+  display: block;
+  border-radius: 5%;
+  background-color: #FF5733;
+  font-weight: 900;
+  font-size: 25px;
+  font-family: monospace;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
